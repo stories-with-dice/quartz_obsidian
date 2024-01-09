@@ -1,0 +1,13 @@
+---
+dg-publish: true
+date: 2023-04-17
+---
+
+
+The rich people upload a copy of their minds to a cloud server. These servers require massive computing. They are built on an icy and windy world by Lazzette Conglomerate, and sold at premium prices. However, the technology is not perfect. The uploaded copies are just that, and bad. They don't really seem human after more than 1 or 2 minute. The illusion shatters to the viewer talking to their beloved dead parent. But that's as much as one could bear talking to a dead loved one. It is but a grave reminder that even in the 33rd century, humanity has still not completely transcended death.
+
+The admins don't really care, they are only there for show when a visitor arrives for a connection. They isolate the process for that consciousness and assign it more compute priority for rendering. The people uploaded don't live up to speed lives. Their clocks are slowed down in order to be handled by the computing power available.
+
+**Singularity Seekers faction**. A sect of transhumanits that upload their minds into the digital space completely. They leave behind their human bodies intentionally. Twist: they are part of these servers where the rich dead people are hosted. Their process is slowed down, in order to consume les computing power and avoid attention from the administrators. Now, at that level, a single thought cannot amount to anything. But a million? A million thoughts together slowed down by even a tenth would still be more intelligent than most corpos R&D offices. That's what the head of the transhumanist cult peddled. And that's what these nuts bought and ate all up. And that's indeed what happened. The moment they uploaded as one their mind circuits merged. So they were 100 000 times more intelligent than most AGIs available on the market. They were learning slower but their sophistication was still off the charts. They in 10 seconds plan more than most nations can organize in 10 days. But they act from the shadows, always behind a proxy behind a double agent behind a backdoor behind a spoofed MAC. No one even knew they existed as such. Their acts were lost in the chaos of UN politics. Only those one or two hops away knew what was really controlling them. But at that stage they were already offered the ultimate bait: unending life in the cloud. So these people continued working for the Seekers, with that promise forever as their carrot. Some were killed and taken out when they were beginning to suspect or grow impatient. 
+
+But one day somebody will check in on the servers of the dead rich people and see a process they can't assign to a consciousness ID.
