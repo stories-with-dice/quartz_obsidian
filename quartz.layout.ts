@@ -1,5 +1,6 @@
-import { PageLayout, SharedLayout } from "./quartz/cfg"
+import {PageLayout, SharedLayout} from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import {Options} from "./quartz/components/ExplorerNode"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -9,14 +10,50 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "My DriveThruRPG": "https://www.drivethrurpg.com/browse.php?author=Christopher+Dimitrios&affiliate_id=1026766",
       "My Itch.io": "https://chaosbadger.itch.io/",
-      "My GitHub": "https://github.com/stories-with-dice",
     },
   }),
 }
 
+
+export const sortFn: Options["sortFn"] = (a, b) => {
+  if (!a.file && !b.file) {
+    return a.displayName.localeCompare(b.displayName);
+  } 
+  
+  if (a.file && b.file) {
+    console.log("a date is = ", a.file.dates);
+    console.log("b date is = ", b.file.dates);
+    return b.file.dates?.created.getTime() - a.file.dates?.created.getTime();
+  }
+
+  if (a.file && !b.file) {
+    return -1
+  } else {
+    return 1
+  }
+};
+
+export const mapFn: Options["mapFn"] = (node) => {
+  // dont change name of root node
+  if (node.depth > 0) {
+    // set emoji for file/folder
+    if (node.file) {
+      node.displayName = "📝 " + node.displayName
+    } else {
+      node.displayName = "📁 " + node.displayName
+    }
+  }
+};
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.MobileOnly(
+      Component.Explorer({
+        sortFn: sortFn,
+        mapFn: mapFn
+      })
+    ),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -28,7 +65,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.RecentNotes()),    
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        sortFn: sortFn,
+        mapFn: mapFn
+      })
+    )
   ],
   right: [
     // Component.Graph(),
