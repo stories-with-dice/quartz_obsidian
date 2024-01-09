@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "https://www.storieswithdice.com/",
     ignorePatterns: ["private", "templates", ".obsidian", "_scripts"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Averia Serif Libre",

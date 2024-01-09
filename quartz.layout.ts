@@ -21,8 +21,6 @@ export const sortFn: Options["sortFn"] = (a, b) => {
   } 
   
   if (a.file && b.file) {
-    console.log("a date is = ", a.file.dates);
-    console.log("b date is = ", b.file.dates);
     return b.file.dates?.created.getTime() - a.file.dates?.created.getTime();
   }
 
@@ -51,7 +49,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(
       Component.Explorer({
         sortFn: sortFn,
-        mapFn: mapFn
+        mapFn: mapFn,
+        folderDefaultState: "collapsed",
+        useSavedState: false
       })
     ),
     Component.Breadcrumbs(),
@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    Component.DesktopOnly(Component.Search()),
     Component.Darkmode(),
     Component.DesktopOnly(Component.RecentNotes()),    
     Component.DesktopOnly(
