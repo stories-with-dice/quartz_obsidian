@@ -253,7 +253,25 @@ When it notices life emerging -- of any form -- Haathrasz coalesces into it, and
 
 Haathrasz follows the evolution of Life -- a bug, a bacteria, the human -- from its inception as an idea in the mind of the Universe (another Weeper?) to its apex and collapse into entropy. 
 
+# 011 - January 11
 
+> Yes, I skipped a few days, life happens.
+
+Let's continue with another god.
+
+> [!info]- Roll results:
+> 
+> - Porfolio: Illusions
+> - Modes and Epithets: Destroy & Ravener
+> - Title: Adjective Epithet Noun
+> - Word: Hunger, Sand, Thirsting, Burrowing
+> 
+
+> [!info]- Name
+> 
+> Boghost
+
+Boghost is the Lingerer (another euphemism human scientists have postulated for these strange forces) whose domain is lies, deceit, and trickery. It grows as humanity lie and deceive each other. At the same time, it destroys what it feeds on. For example, if a politician lies to their constituents, Boghost intrudes into the mindspace of the treachery, and expands its on the collection subconscious layer, like *a wound that invites infection*. Unless the right cleansing ritual is employed -- magic, social, or personal -- the lie grows to destroy the relationship and cohesion of all those involved.
 
 
 

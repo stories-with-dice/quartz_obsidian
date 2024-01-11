@@ -25,6 +25,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
+- [[Lore24#001 - January 01]]
 - [[Lore24#008 - January 08]]
 - [[Lore24#007 - January 07]]
 - [[Lore24#006 - January 06]]
