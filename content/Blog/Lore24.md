@@ -271,8 +271,26 @@ Let's continue with another god.
 > 
 > Boghost
 
-Boghost is the Lingerer (another euphemism human scientists have postulated for these strange forces) whose domain is lies, deceit, and trickery. It grows as humanity lie and deceive each other. At the same time, it destroys what it feeds on. For example, if a politician lies to their constituents, Boghost intrudes into the mindspace of the treachery, and expands its on the collection subconscious layer, like *a wound that invites infection*. Unless the right cleansing ritual is employed -- magic, social, or personal -- the lie grows to destroy the relationship and cohesion of all those involved.
+Boghost is the *Lingerer* [^4] whose domain is lies, deceit, and trickery. It grows as humanity lie and deceive each other. At the same time, it destroys what it feeds on. For example, if a politician lies to their constituents, Boghost intrudes into the mindspace of the treachery, and expands its on the collection subconscious layer, like *a wound that invites infection*. Unless the right cleansing ritual is employed -- magic, social, or personal -- the lie grows to destroy the relationship and cohesion of all those involved.
 
+# 012 - January 12
+
+And the final of our trifecta of Ancient Sadbois.
+
+> [!info]- Rolls
+> 
+Porfolio: Night
+Modes and Epithets: Destroy & Eradicator
+Title: Adjective Epithet Noun
+Word: Sorrow, Dusk, Dancing, Listening
+
+What is the symbolism of Night in this context? I don't want it to be too similar to Boghost, the God of illusion above. I'm going to interpret Night as the dream world, the subconscious realm, as opposed to the mundane. 
+
+Uamathi is the *Cosmic Mourner* [^4] that seeks to destroy and eradicate the creative aspects of humanity, with all its aspects: human communication, dance, art. Those mystics that claim to have communed with the great god-mind talk about an alien feeling of anger, almost jealousy. Uamathi is said to hate the creative aspects as it was creation that destroyed the previous universes that it has inhabited, with everything that it had held dear. 
+
+# 013 - January 13
+
+TBD
 
 
 [^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 
@@ -280,3 +298,5 @@ Boghost is the Lingerer (another euphemism human scientists have postulated for 
 [^2]: Assume Call of Cthulhu / Delta Green / Cthulhu Eternal. 
 
 [^3]: Cosmology and multi-verses to follow.
+
+[^4]: Another euphemism human occultists use to describe the hypothesized entities that have spanned across multiple Universes. Scientists studying the secret of the cosmos identified these processes as having no clear beginning or end, but, as scientists, they cannot ascribe them any sort of consciousness or human-like intentionality or agency.
