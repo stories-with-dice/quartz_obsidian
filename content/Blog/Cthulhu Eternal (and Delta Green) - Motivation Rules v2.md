@@ -3,7 +3,7 @@
 
 This is an alternative of [[Cthulhu Eternal - Custom Rules for Motivations]].
 
-These are some custom rules for more engaging Motivations in https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD (also compatible with https://www.drivethrurpg.com/product/181674/Delta-Green-Agents-Handbook).
+These are my custom rules for more **engaging Motivations** in [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD )(also compatible with [Delta Green](https://www.drivethrurpg.com/product/181674/Delta-Green-Agents-Handbook)).
 ## Design Goals
 
 - Offer a re-roll mechanic
