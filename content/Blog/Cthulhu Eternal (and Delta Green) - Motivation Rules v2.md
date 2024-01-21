@@ -3,6 +3,7 @@
 
 This is an alternative of [[Cthulhu Eternal - Custom Rules for Motivations]].
 
+These are some custom rules for more engaging Motivations in https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD (also compatible with https://www.drivethrurpg.com/product/181674/Delta-Green-Agents-Handbook).
 ## Design Goals
 - Offer a re-roll mechanic
 - The re-roll mechanic should connect to the PC's Motivations
@@ -19,7 +20,7 @@ Carla is a street fighter that cares about her little brother and community in g
 
 - Value: Do what's best for her family 11
 - Goal: Make a name for herself as a street fighter 6
-- Passion: Take risks 3
+- Fear: A boring life of no risks 3
 - Goal: Continue her education 5
 - Value: Contribute to her neighborhood's community 6
 
