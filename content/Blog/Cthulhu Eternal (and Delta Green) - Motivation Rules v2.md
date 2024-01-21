@@ -5,6 +5,7 @@ This is an alternative of [[Cthulhu Eternal - Custom Rules for Motivations]].
 
 These are some custom rules for more engaging Motivations in https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD (also compatible with https://www.drivethrurpg.com/product/181674/Delta-Green-Agents-Handbook).
 ## Design Goals
+
 - Offer a re-roll mechanic
 - The re-roll mechanic should connect to the PC's Motivations
 - Re-rolling is mentally exhausting for the PC
@@ -12,7 +13,7 @@ These are some custom rules for more engaging Motivations in https://www.driveth
 ## Character Creation Rules
 - PCs can assign points to their Motivations, similar to Bonds
 - They sum up their INT, POW, and CHA, and can distribute those among their five Motivations
-- Motivations should be formulated as values, fears, passions, or goals
+- Motivations should be formulated as values, fears, passions, or goals ([[#Motivation Examples|examples below]])
 
 **Example**
 
@@ -20,8 +21,8 @@ Carla is a street fighter that cares about her little brother and community in g
 
 - Value: Do what's best for her family 11
 - Goal: Make a name for herself as a street fighter 6
-- Fear: A boring life of no risks 3
-- Goal: Continue her education 5
+- Fear: A boring life of no risks 5
+- Goal: Continue her education 3
 - Value: Contribute to her neighborhood's community 6
 
 ## Game Rules
@@ -37,6 +38,8 @@ Carla is a street fighter that cares about her little brother and community in g
 - they may not push the same action twice
 - if the Motivation reaches 0, the PC must roll a SAN check. If they fail, they suffer a Temporary Insanity episode (after the skill check is resolved)
 - the current rule of recovering WP through following a Motivation is removed
+- when the PC reaches a BP and gains a new Disorder, it always replaces the Motivation with the lowest score. Ideally, the new Disorder should reflect the negative aspect of that Motivation.
+	- Example: When Sharon gains a new Disorder, she replaces "Continue her education" with Depression, reflecting the crumbling goals she had for herself.
 
 ### Downtime: Personal Motivations
 
@@ -49,4 +52,18 @@ This replaces the rules for the "Personal Motivation" downtime action.
 - Failure removes 1 from a Motivation
 	- Fumble reduces 1D4
 
+## Motivation Examples
+
+- Value: Be a good example to colleagues
+- Goal: Amass a small fortune
+- Passion: Appreciate art 
+- Value: Society can only be changed with radical action
+- Goal: Prove your worth to your superior
+- Fear: Being left alone
+- Passion: Obscure bronze age history
+- Value: Always see the positive
+- Passion: Find a fitting romantic partner
+- Goal: Discover what really happened that strange night
+- Value: Justice is best taken in one's own hands
+- Passion: The latest technology and gadgets
 
