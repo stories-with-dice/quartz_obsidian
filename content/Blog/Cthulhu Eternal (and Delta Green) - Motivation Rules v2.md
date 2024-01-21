@@ -4,26 +4,32 @@
 This is an alternative of [[Cthulhu Eternal - Custom Rules for Motivations]].
 
 These are my custom rules for more **engaging Motivations** in [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD )(also compatible with [Delta Green](https://www.drivethrurpg.com/product/181674/Delta-Green-Agents-Handbook)).
+
 ## Design Goals
 
 - Offer a re-roll mechanic
 - The re-roll mechanic should connect to the PC's Motivations
 - Re-rolling is mentally exhausting for the PC
 - Running out of Motivation is risky
+
 ## Character Creation Rules
+
 - PCs can assign points to their Motivations, similar to Bonds
 - They sum up their INT, POW, and CHA, and can distribute those among their five Motivations
-- Motivations should be formulated as values, fears, passions, or goals ([[#Motivation Examples|examples below]])
+- To ease RPing, Motivations can be formulated as values, fears, passions, or goals ([[#Motivation Examples|examples below]])
 
 **Example**
 
-Carla is a street fighter that cares about her little brother and community in general but also wants fame as an accomplish fighter. Her stats are STR 17, CON 12, DEX 12, INT 11, POW 10, CHA 10. The player can distribute the 11+10+10 (31) points to her Motivations as
+Carla is a street fighter stuck between caring about her brother and community in general but also wanting fame as an accomplished fighter. Her stats are STR 17, CON 12, DEX 12, INT 11, POW 10, CHA 10. The player can distribute the 11+10+10 (31) points to her Motivations as:
 
-- Value: Do what's best for her family 11
-- Goal: Make a name for herself as a street fighter 6
-- Fear: A boring life of no risks 5
-- Goal: Continue her education 3
-- Value: Contribute to her neighborhood's community 6
+- (Value) Do what's best for her family 11
+- (Goal) Make a name for herself as a street fighter 6
+- (Fear) A boring life of no risks 5
+- (Goal) Continue her education 3
+- (Value) Contribute to her neighborhood's community 6
+
+![](https://i.imgur.com/80XKFQn.png)
+
 
 ## Game Rules
 
@@ -54,16 +60,19 @@ This replaces the rules for the "Personal Motivation" downtime action.
 
 ## Motivation Examples
 
-- Value: Be a good example to colleagues
-- Goal: Amass a small fortune
-- Passion: Appreciate art 
-- Value: Society can only be changed with radical action
-- Goal: Prove your worth to your superior
-- Fear: Being left alone
-- Passion: Obscure bronze age history
-- Value: Always see the positive
-- Passion: Find a fitting romantic partner
-- Goal: Discover what really happened that strange night
-- Value: Justice is best taken in one's own hands
-- Passion: The latest technology and gadgets
+- (Value) Be a good example to colleagues
+- (Goal) Amass a small fortune
+- (Passion) Appreciate art 
+- (Value) Society can only be changed with radical action
+- (Goal) Prove your worth to your superior
+- (Fear) Being left alone
+- (Passion) Obscure bronze age history
+- (Value) Always see the positive
+- (Passion) Find a fitting romantic partner
+- (Goal) Discover what really happened that strange night
+- (Value) Justice is best taken in one's own hands
+- (Passion) The latest technology and gadgets
 
+---
+
+Images from Unsplash.
