@@ -1,7 +1,8 @@
 ---
-title: Hey! I'm Chris and this is my blog
+title: Stories with Dice
 date: 2023-04-17
 ---
+## Hey! I'm Chris and this is my blog
 
 I blog about role-playing games, creative writing, and other fanciful topics. You'll find blog posts, solo RPG actual play journals, and other miscellany.
 
@@ -11,6 +12,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 # Blog posts
 
+- [[Cthulhu Eternal - Motivation Rules v2]]
 - [[Cthulhu Eternal - Alternative Language Rules]]
 - [[Cthulhu Eternal - Experience Packages]]
 - [[Romanian Mythos]]
