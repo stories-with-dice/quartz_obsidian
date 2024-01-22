@@ -27,7 +27,9 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
-- [[Lore24#012 - January 12]]
+- [[Lore24#022 - January 22]] - *what's a horror sandbox*?
+- [[Lore24#013 - January 13]] - *what are monsters*?
+- [[Lore24#012 - January 12]] - *Uamathi, the Cosmic Mourner*
 - [[Lore24#011 - January 11]]
 - [[Lore24#008 - January 08]]
 - [[Lore24#007 - January 07]]
