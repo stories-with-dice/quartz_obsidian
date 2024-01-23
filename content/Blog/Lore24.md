@@ -12,6 +12,8 @@ Now excuse me, I have some catching up to do!
 
 # 001 - January 01
 
+## Other - short fiction
+
 Some moody flash fiction.
 
 *The world is ours: it spins, it flies around the Sun, it stinks, it's filled of people. The people ferment and fornicate, pile up on the interstate, and stare at the dark at night. In that dark, out in the cold void, something other than human lurks. It knows of you, but cares little of our Coke Zero and high-speed Internet marvels. This Other has been here long before we took our turn on the merry-go-round. Its deals and concerns are above our fast fashion brains. Yet, "As Above, So Below" applies to It too. The resonances of our minds and hearts tug and pull at the grand cog of the Cosmos and the Other. We are connected, despite our unceasing desire for atomization and isolation. When we yearn, when we scream, when we reach out with our minds for the edges of what **can** be known, the Other waits. What does it want of us? What does it offer for our service? The excitement of not knowing, of finding out with every new dark pact, is what makes the merry-go-round worth the hassle for those freaks who dare to prod. Outside the city, in the clear night sky, you stand and stare out at the void. You hope it stares back for you have things to ask.*
@@ -19,6 +21,8 @@ Some moody flash fiction.
 # 002 - January 02
 
 So what is this? I am trying to brainstorm setting ideas for a modern horror world. I'll be mixing ideas from Lovecraftian horror, conspiracies, the occult, weirdness, and whatever I feel like throwing into this cursed soup. For structure? Not sure. Maybe I'll use Silent Legions to create a sandbox of sorts, for investigative horror. Or I might brainstorm more elements for my Romanian Mythos sourcebook. Or wild ideas for one of my many work-in-progress modules. Or just pretentious flash fiction.
+
+## The Party - short fiction
 
 For today, some flash fiction using the [Mythic Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter?affiliate_id=1026766):
 
@@ -82,6 +86,8 @@ What was this? Guess I'll try to figure it out tomorrow.
 
 # 003 - January 03
 
+## A Moveable Feast
+
 Today I'll try to write the mechanics for the nightclub in my short fiction from yesterday.
 
 > A Moveable Feast.
@@ -101,6 +107,8 @@ Inevitably, they suffer an accident. When the PC suffers any harm, their body is
 # 004 - January 04
 
 Today, a faction based on random table rolls.
+
+## Saviors of the Green
 
 > [!info]- Rolls
 > 
@@ -125,7 +133,7 @@ Talent and crafts. The cult has always attracted those in touch with their artis
 
 # 005 - January 05
 
-Concept: *The City and the Void*
+## Concept: *The City and the Void*
 
 ![](https://i.imgur.com/YGP0qOc.png)
 
@@ -142,6 +150,8 @@ While those are quite broad, they contain in themselves a multitude of sub-theme
 Which city? Any city, really. I can't commit to one city. These strands of lore should be easily moved between any modern, contemporary city.
 
 # 006 - January 06
+
+## Baytax, Inc
 
 Faction - White collar crime cult (inspired by [[January 2024 Character Creation Challenge#04 - Roger Schulte|Roger's lifepath]]).
 
@@ -208,6 +218,8 @@ Furthermore, the gangs suspect Roger is hiding something. They have surveillance
 
 # 007 - January 07
 
+## Silent Legions Pantheon
+
 What is the nature of The Void (The Unnatural, The Strange) in my world? Where did it come? What does it want? Does it *want* at all?
 
 Let's create some Gods using the [Silent Legions](https://www.drivethrurpg.com/product/145769/Silent-Legions?affiliate_id=1026766) book.
@@ -235,6 +247,8 @@ Occultists of this world refer to these entities as the "Eternals", due to their
 
 # 008 - January 08
 
+## Haathrasz, the Thirster
+
 God: Haathrasz
 
 - Porfolio: Life
@@ -259,6 +273,8 @@ Haathrasz follows the evolution of Life -- a bug, a bacteria, the human -- from 
 
 Let's continue with another god.
 
+## Boghost, the Lingerer
+
 > [!info]- Roll results:
 > 
 > - Porfolio: Illusions
@@ -277,6 +293,8 @@ Boghost is the *Lingerer* [^4] whose domain is lies, deceit, and trickery. It gr
 
 And the final of our trifecta of Ancient Sadbois.
 
+## Uamathi, the Cosmic Mourner
+
 > [!info]- Rolls
 > 
 Porfolio: Night
@@ -289,6 +307,8 @@ What is the symbolism of Night in this context? I don't want it to be too simila
 Uamathi is the *Cosmic Mourner* [^4] that seeks to destroy and eradicate the creative aspects of humanity, with all its aspects: human communication, dance, art. Those mystics that claim to have communed with the great god-mind talk about an alien feeling of anger, almost jealousy. Uamathi is said to hate the creative aspects as it was creation that destroyed the previous universes that it has inhabited, with everything that it had held dear. 
 
 # 013 - January 13
+
+## What are monsters?
 
 Let's move to some monsters and aliens. First let's clarify what aliens and monsters *are.* They could be just like humans, arising out of evolution, as we know it. The Lovecraftian interpretation points towards the Ancient Aliens creators (that inspired the *Alien* universe too). While this is a juicy interpretation, the problem arises: why haven't the other aliens made full contact with humans, or outright enslaved us? Basically, [Fermi's Paradox](https://en.wikipedia.org/wiki/Fermi_paradox). 
 
@@ -319,6 +339,32 @@ Plots and frameworks are the bread and butter, so here are some:
 - you are the last remnants of humanity within a small town, you want to search for other communities, while also removing any subverters and horrors hiding among your midst
 - you are part of a criminal network in a dark metropolis. You want the Eldritch powers because you think that they can provide the only means to save the world (or will you give in to their temptation for personal power?)
 - you are Spec Ops soldiers, part of the last fighting force of humanity. You are lost behind enemy lines, where you need to blend in, sneak, kill. Either find your way back home or dig deeper to kill the ultimate evil of the region
+
+# 023 - January 23
+
+## Monsters: 
+
+> [!info] Rolls
+> 
+> It's hard to decide how to even start. 
+> 
+> Mythic GM roll for Alien Species: `Threatening Suffering`
+> 
+> Mythic GM roll for Character description: `Mature Wounded`
+> 
+> What do they fear? `Rivals. Some other aliens threaten their destruction.`
+
+I'm imagining a monster alien species that is created out of humans. The aliens infect humans during their lives, as this is the only way they can reproduce anymore. They've been defeated by a rival alien species, and now take shelter within humans. 
+
+The disguise is only effective because they hide within the brain electro-chemistry of the humans. They slow down the receptor sensitivity in order to allow themselves more time to plot their revenge and return to glory. 
+
+Unfortunately that has started to have effects on humanity. These humans exhibit strange self-mutilating behaviors and have reduced fertility. Subjectively, they describe their experience as moments of "intense deja-vu", like "timing slowing down". Some have discovered they can tune into these feelings and some times control them. 
+
+When they do so, they can see things on higher dimensions, and can interact with items at far away distances, via torsion fields. To the outside observer, the intrusion and interaction appears as fragments of the person reaching out from "strange mirror-like surfaces".
+
+Upon death, the alien thought-pattern take complete control and slow down the decay of the body. The aliens appears as "zombies" with telepathic powers. They are slowly dying, but wield immense powers.
+
+
 
 
 [^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 
