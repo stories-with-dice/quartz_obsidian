@@ -360,9 +360,9 @@ The disguise is only effective because they hide within the brain electro-chemis
 
 Unfortunately that has started to have effects on humanity. These humans exhibit strange self-mutilating behaviors and have reduced fertility. Subjectively, they describe their experience as moments of "intense deja-vu", like "timing slowing down". Some have discovered they can tune into these feelings and some times control them. 
 
-When they do so, they can see things on higher dimensions, and can interact with items at far away distances, via torsion fields. To the outside observer, the intrusion and interaction appears as fragments of the person reaching out from "strange mirror-like surfaces".
+When they do so, they can see things on higher dimensions, and can interact with items at far away distances, via torsion fields. To the outside observer, the intrusion and interaction appears as fragments of the person reaching out and touching them from "strange mirror-like surfaces".
 
-Upon death, the alien thought-pattern take complete control and slow down the decay of the body. The aliens appear as "zombies" with telepathic powers. They are slowly dying, but wield immense powers.
+Upon death, the alien thought-pattern take complete control and slow down the decay of the body. The aliens appear as "zombies" with telepathic and telekinetic powers. They are slowly decomposing and dying, but wield immense powers.
 
 
 
