@@ -342,7 +342,7 @@ Plots and frameworks are the bread and butter, so here are some:
 
 # 023 - January 23
 
-## Monsters: 
+## Monsters: Onichus
 
 > [!info] Rolls
 > 
@@ -362,7 +362,7 @@ Unfortunately that has started to have effects on humanity. These humans exhibit
 
 When they do so, they can see things on higher dimensions, and can interact with items at far away distances, via torsion fields. To the outside observer, the intrusion and interaction appears as fragments of the person reaching out from "strange mirror-like surfaces".
 
-Upon death, the alien thought-pattern take complete control and slow down the decay of the body. The aliens appears as "zombies" with telepathic powers. They are slowly dying, but wield immense powers.
+Upon death, the alien thought-pattern take complete control and slow down the decay of the body. The aliens appear as "zombies" with telepathic powers. They are slowly dying, but wield immense powers.
 
 
 
