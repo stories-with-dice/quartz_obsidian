@@ -1,6 +1,9 @@
 ---
 title: Stories with Dice
 date: 2023-04-17
+aliases:
+  - Stories with Dice
+description: Christopher Dimitrios' blog on role playing games, writing, and other tidbits
 ---
 ## Hey! I'm Chris and this is my blog
 

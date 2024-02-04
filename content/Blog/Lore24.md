@@ -1,3 +1,8 @@
+---
+date: 2024-01-01
+---
+
+
 Wake up, babe, new RPG challenge just dropped.
 
 This one is called `#Lore24` and it's all about that sweet, sweet L O R E . It's simple: each day, every day, for all of 2024's 336 days, you write a paragraph or two (or a novel) of lore about your world. Get lore-ing! [^1]

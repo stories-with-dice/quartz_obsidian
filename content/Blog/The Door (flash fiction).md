@@ -1,3 +1,8 @@
+---
+date: 2024-02-02
+---
+
+
 (part of https://www.storytellingcollective.com/courses/flash-fiction-february-2024)
 
 Prompt was:

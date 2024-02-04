@@ -1,3 +1,8 @@
+---
+date: 2024-02-04
+---
+
+
 I am currently taking the online class in Sword and Sorcery fiction, from the Storytelling Collective (https://www.storytellingcollective.com/courses/take/write-your-first-sword-and-sorcery/texts/43538965-lesson-1-activity)
 
 I will post my notes and activities in this blog post.
