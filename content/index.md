@@ -12,6 +12,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 # Blog posts
 
+- [[Sword and Sorcery fiction - an online class]]
 - [[The Door (flash fiction)]]
 - [[Cthulhu Eternal (and Delta Green) - Motivation Rules v2]]
 - [[Cthulhu Eternal - Alternative Language Rules]]
