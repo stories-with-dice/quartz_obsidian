@@ -1,6 +1,9 @@
 ---
 title: Stories with Dice
 date: 2023-04-17
+aliases:
+  - Stories with Dice
+description: Christopher Dimitrios' blog on role playing games, writing, and other tidbits
 ---
 ## Hey! I'm Chris and this is my blog
 
@@ -13,6 +16,8 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 # Blog posts
 
 - [[20 Modern Locations that are like a Medieval Fantasy Dungeon]]
+- [[Sword and Sorcery fiction - an online class]]
+- [[The Door (flash fiction)]]
 - [[Cthulhu Eternal (and Delta Green) - Motivation Rules v2]]
 - [[Cthulhu Eternal - Alternative Language Rules]]
 - [[Cthulhu Eternal - Experience Packages]]
@@ -28,6 +33,8 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
+- [[Lore24#033 - February 02]] - *epistemological bottleneck*
+- [[Lore24#032 - February 01]] - *short fiction*
 - [[Lore24#030 - January 30]] - *a campaign framework*
 - [[Lore24#024 - January 24]] - *stats for the telepathic zombies*
 - [[Lore24#023 - January 23]] - *telepathic zombies?!*

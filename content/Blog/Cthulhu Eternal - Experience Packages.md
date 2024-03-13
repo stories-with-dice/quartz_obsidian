@@ -1,3 +1,7 @@
+---
+date: 2024-01-15
+---
+
 
 These are packages that can be taken at the end of character creation in Cthulhu Eternal. They represent the effects of different life events on the character. The GM may allow you to take one or two. 
 
