@@ -12,6 +12,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 # Blog posts
 
+- [[20 Modern Locations that are like a Medieval Fantasy Dungeon]]
 - [[Cthulhu Eternal (and Delta Green) - Motivation Rules v2]]
 - [[Cthulhu Eternal - Alternative Language Rules]]
 - [[Cthulhu Eternal - Experience Packages]]
