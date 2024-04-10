@@ -475,11 +475,28 @@ The unnatural is above and below our reality. Its true nature cannot be perceive
 
 I'm quite proud of the phrase "epistemological bottleneck."
 
+# 034 - April 9
 
+## Campaign framework - Dreamlands Conjunctions
 
+Reality is shaped by belief, a la Planescape or [Department of Truth](https://imagecomics.com/comics/series/the-department-of-truth). In hidden fringe corners of the world cultists control and subtly guide those susceptible to various ideas to their own ends. They shape reality and summon forth creatures from the Dreamlands. Their goals? Mysterious, elusive, but dangerous. You play agents trying to stop them. 
 
+This framework allows me to combine modern day with magical fantasy incursions, similar to [Project Staircase](https://forum.rpg.net/index.php?threads/setting-riff-voices-from-below-and-the-long-stairs.391379/), **without** worrying about having to research and represent modern realism. In these corners, belief in Yeti or The Mothman have altered reality to new magical rules. 
 
+An example could be a system of otherwise mundane caves believed by locals to house spirits of the dead animals in the area. The theme of the location would be exploring loss of innocence and animal companionship. 
+# 035 - April 10
 
+## Faction - The Free Librarians
+
+This is a group that can be used in any modern horror campaign.
+
+The main concept is a group that operates within public libraries. They leave hidden messages within shelves and meet at odd hours to discuss and share secret knowledge.
+
+The leader is Chloe Zhukov, a disgraced literary studies PhD. She had to leave academia as she was discovered to have been using and spread pirated copies of academic books. She now works as a librarian. Her secret desire is to write and publish a book about guerilla warfare that will land her a fat check, so she can finally retire.
+
+Resources: They have managed to obtain leaked copies of top secret government documents outlining anatomical representations of aliens. The group has copied these and placed them in various public libraries. Unknown to them, the government (perhaps Delta Green?) is on their tails.
+
+Current operations: They are currently fighting a silent academic war with the Miskatonic University circle. The Free Librarians post on social media condemning the MU circle of "gatekeeping" by not allowing external researchers to access the MU's much-renowned "forbidden section."
 
 
 
