@@ -16,7 +16,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 # Blog posts
 
 - [[My House Rules for Skills in d100 games]]
-- [[20 Modern Locations that are like a Medieval Fantasy Dungeon]]
+- [[Locations for modern settings]]
 - [[Sword and Sorcery fiction - an online class]]
 - [[The Door (flash fiction)]]
 - [[Cthulhu Eternal (and Delta Green) - Motivation Rules v2]]
