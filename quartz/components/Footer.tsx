@@ -13,6 +13,11 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
+        <p style="margin-bottom:4px;font-weight:bold;font-size:2em;">
+          Share your thoughts with <a class="internal" href="/Projects/Obsidian/quartz-comments">Remark42</a>
+        </p>
+        <div id="remark42"></div>
+        <hr />
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>

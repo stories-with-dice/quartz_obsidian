@@ -56,6 +56,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
+      Plugin.Remark42({ host: "https://remark42.storieswithdice.duckdns.org", site_id: "storieswithdice.com", theme: "dark", no_footer: false }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
