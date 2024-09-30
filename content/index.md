@@ -34,6 +34,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
+- [[Lore24#036 - September 30]] - *dreaming*
 - [[Lore24#035 - April 10]] - *faction: The Free Librarians*
 - [[Lore24#034 - April 9]] - *framework: Dreamlands Conjunctions*
 - [[Lore24#033 - February 02]] - *epistemological bottleneck*

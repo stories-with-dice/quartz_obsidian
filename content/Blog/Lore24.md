@@ -17,39 +17,45 @@ Now excuse me, I have some catching up to do!
 
 Table of Contents
 
-- [001 - January 01](#001%20-%20January%2001)
-	- [Other - short fiction](#Other%20-%20short%20fiction)
-- [002 - January 02](#002%20-%20January%2002)
-	- [The Party - short fiction](#The%20Party%20-%20short%20fiction)
-- [003 - January 03](#003%20-%20January%2003)
-	- [A Moveable Feast](#A%20Moveable%20Feast)
-- [004 - January 04](#004%20-%20January%2004)
-	- [Saviors of the Green](#Saviors%20of%20the%20Green)
-- [005 - January 05](#005%20-%20January%2005)
-	- [Concept: *The City and the Void*](#Concept:%20*The%20City%20and%20the%20Void*)
-- [006 - January 06](#006%20-%20January%2006)
-	- [Baytax, Inc](#Baytax,%20Inc)
-- [007 - January 07](#007%20-%20January%2007)
-	- [Silent Legions Pantheon](#Silent%20Legions%20Pantheon)
-- [008 - January 08](#008%20-%20January%2008)
-	- [Haathrasz, the Thirster](#Haathrasz,%20the%20Thirster)
-- [011 - January 11](#011%20-%20January%2011)
-	- [Boghost, the Lingerer](#Boghost,%20the%20Lingerer)
-- [012 - January 12](#012%20-%20January%2012)
-	- [Uamathi, the Cosmic Mourner](#Uamathi,%20the%20Cosmic%20Mourner)
-- [013 - January 13](#013%20-%20January%2013)
-	- [What are monsters?](#What%20are%20monsters?)
-- [022 - January 22](#022%20-%20January%2022)
-- [023 - January 23](#023%20-%20January%2023)
-	- [Monsters: Onichus](#Monsters:%20Onichus)
-- [024 - January 24](#024%20-%20January%2024)
-	- [Monsters: Onichus (Stats)](#Monsters:%20Onichus%20(Stats))
-- [030 - January 30](#030%20-%20January%2030)
-	- [A Campaign Framework](#A%20Campaign%20Framework)
-- [032 - February 01](#032%20-%20February%2001)
-	- [Short fiction - The Door](#Short%20fiction%20-%20The%20Door)
-- [033 - February 02](#033%20-%20February%2002)
-	- [Epistemological bottleneck](#Epistemological%20bottleneck)
+- [001 - January 01](#001---january-01)
+	- [Other - short fiction](#other---short-fiction)
+- [002 - January 02](#002---january-02)
+	- [The Party - short fiction](#the-party---short-fiction)
+- [003 - January 03](#003---january-03)
+	- [A Moveable Feast](#a-moveable-feast)
+- [004 - January 04](#004---january-04)
+	- [Saviors of the Green](#saviors-of-the-green)
+- [005 - January 05](#005---january-05)
+	- [Concept: *The City and the Void*](#concept-the-city-and-the-void)
+- [006 - January 06](#006---january-06)
+	- [Baytax, Inc](#baytax-inc)
+- [007 - January 07](#007---january-07)
+	- [Silent Legions Pantheon](#silent-legions-pantheon)
+- [008 - January 08](#008---january-08)
+	- [Haathrasz, the Thirster](#haathrasz-the-thirster)
+- [011 - January 11](#011---january-11)
+	- [Boghost, the Lingerer](#boghost-the-lingerer)
+- [012 - January 12](#012---january-12)
+	- [Uamathi, the Cosmic Mourner](#uamathi-the-cosmic-mourner)
+- [013 - January 13](#013---january-13)
+	- [What are monsters?](#what-are-monsters)
+- [022 - January 22](#022---january-22)
+- [023 - January 23](#023---january-23)
+	- [Monsters: Onichus](#monsters-onichus)
+- [024 - January 24](#024---january-24)
+	- [Monsters: Onichus (Stats)](#monsters-onichus-stats)
+- [030 - January 30](#030---january-30)
+	- [A Campaign Framework](#a-campaign-framework)
+- [032 - February 01](#032---february-01)
+	- [Short fiction - The Door](#short-fiction---the-door)
+- [033 - February 02](#033---february-02)
+	- [Epistemological bottleneck](#epistemological-bottleneck)
+- [034 - April 9](#034---april-9)
+	- [Campaign framework - Dreamlands Conjunctions](#campaign-framework---dreamlands-conjunctions)
+- [035 - April 10](#035---april-10)
+	- [Faction - The Free Librarians](#faction---the-free-librarians)
+- [036 - September 30](#036---september-30)
+	- [Mental frolic - What are dreams and the Dreamlands?](#mental-frolic---what-are-dreams-and-the-dreamlands)
 
 # 001 - January 01
 
@@ -498,8 +504,27 @@ Resources: They have managed to obtain leaked copies of top secret government do
 
 Current operations: They are currently fighting a silent academic war with the Miskatonic University circle. The Free Librarians post on social media condemning the MU circle of "gatekeeping" by not allowing external researchers to access the MU's much-renowned "forbidden section."
 
+# 036 - September 30
 
+## Mental frolic - What are dreams and the Dreamlands?
 
+I was reading some Ligotti and pondering the idea of how dreams act as ontological layers in fiction. In one of his stories, dreams act as layers of fictional narration, similar to HPL's epistolary works. While a letter or diary is an established traditional method of embedding the narrator within the narrative, Ligotti introduces the idea that dreams themselves act as layers of distrust and instability.
+
+*What if* dreams are worlds on their own? Everyone can create them, tapping into their biographical and personal fears, emotions, and obsessions. The dream worlds can act as worlds within the dreamer is a God. They can affect those within the world at will. This is similar to lucid dreaming in concept. However, the Dreamer themselves isn't aware of the experiments and power they hold. They may unintentionally act out sadistic or delinquent power fantasies within these milieus. This can be restorative to the Dreamer, but, if they are not mentally prepared to accept these intrusive thoughts, they may be shocked to discover their [shadow](https://www.wikiwand.com/en/articles/Shadow_(psychology)). 
+
+Additionally, any person that has been represented in a dream may feel an eerie tingling and the unexpected mental image of the Dreamer who's dreaming of them. 
+
+The Dreamer may still feel refreshed from these nighttime creations. However, with every tap into the reservoirs of the collective subconscious, the Dreamer risks attracting too much attention. Every dream connects to the entirety of humanity's (*and more?*) dreams. This network allows for tapping into and bridging into other people's minds. However, this network itself has a mind of its own. Hypnos, the god of sleep from classical mythology, watches over his domain and may decree that any Dreamer is becoming too proud and daring. He punishes a Dreamer by removing their capacity for dream for a specific time. During this time, the target feels restless, anxious, or depressed.
+
+**Mechanics**
+
+- PCs may use Deep Dreaming to act out or explore ideas or scenarios
+- The scenarios must include at least another person
+- The PC doesn't need to specify they want to do this; the GM may decide that the PC simply suffers a 
+- The dream may sprout ideas and vague suggestions from the GM
+- When they wake from such a dream, the GM or the player must make a relevant check (POW or Unnatural) to suppress having performed nasty experiments on others
+- The target of the Dreamer must pass a similar check, or feel an eerie feeling towards the Dreamer
+- If the Dreamer critically fails the check, Hypnos targets them and removes their capacity to dream
 
 
 
