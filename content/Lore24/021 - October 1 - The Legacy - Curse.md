@@ -16,8 +16,6 @@ Every time the character is exposed to an opportunity to act upon this goal, the
 
 A character obtains a reward when a goal is completed. The GM decides, but it should be a personal improvement (+5-10% to a skill etc.) However, the Legacy doesn't wane. *The burden of history and of your ancestor never ceases*. The character must make another roll (POW, CHA, or Unnatural) to resist gaining another goal. *No matter what you achieve, you will never live up to your parents' dreams.* The cycle continues.
 
+---
 
-
-
-
-
+*(photo from Unsplash)*
