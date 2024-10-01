@@ -13,7 +13,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 ‣ *[[#About me]]*
 
-# Blog posts
+## Blog posts
 
 - [[My House Rules for Skills in d100 games]]
 - [[Locations for modern settings]]
@@ -30,7 +30,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 - [[My hack OSR System]]
 - [[OSR Usage Die]]
 
-# Lore24 Challenge
+## Lore24 Challenge
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
@@ -55,7 +55,7 @@ The `#Lore24` challenge is to write a bit of background lore about your fictiona
 - [[Lore24#002 - January 02]]
 - [[Lore24#001 - January 01]]
 
-# January 2024 Character Creation Challenge
+## January 2024 Character Creation Challenge
 
 The `#CharacterCreationChallenge` started on January 1, 2024 with the goal to create 31 new RPG characters in 31 days. 
 
@@ -66,7 +66,7 @@ The `#CharacterCreationChallenge` started on January 1, 2024 with the goal to cr
 - [[January 2024 Character Creation Challenge#01 - Daniel Osmond]]
 
 
-# Random Solo RP Sessions
+## Random Solo RP Sessions
 
 - [[Silent Legions - Session 0|Silent Legions]] with one-roll combat resolution and starting from a map
  
@@ -75,15 +75,15 @@ A few sessions of Forbidden Lands. Using Mythic GM 2e and Foundry.
 - [[Forbidden Lands Episode 1]]
 - [[Forbidden Lands Episode 2]]
 
-# Lone Scum Solo RP
+## Lone Scum Solo RP
 
 This is my solo AP of Scum & Villainy (then Fate Accelerated). It's mostly abandoned, but I might continue it some day™️. [[session 0 - campaign overview|Start here]]
 
-# About me
+## About me
 
 I am Christopher Dimitrios. I am originally from Eastern Europe but now live in other parts of the world.
 
-## Published works
+### Published works
 
 - I wrote and published [Romanian Mythos](https://www.drivethrurpg.com/product/454061/Romanian-Mythos--Sourcebook-of-Horrors-for-Lovecraftian-RPGs?affiliate_id=1026766), a 100-page sourcebook for Mythos horror based on Romanian history
 - I also wrote two more modules for Call of Cthulhu, via the Miskatonic Repository, both set in Romania during the troubled 90s: [here](https://www.drivethrurpg.com/browse.php?author=Christopher+Dimitrios&affiliate_id=1026766)
