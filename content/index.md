@@ -34,26 +34,30 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
-- [[Lore24#036 - September 30]] - *dreaming*
-- [[Lore24#035 - April 10]] - *faction: The Free Librarians*
-- [[Lore24#034 - April 9]] - *framework: Dreamlands Conjunctions*
-- [[Lore24#033 - February 02]] - *epistemological bottleneck*
-- [[Lore24#032 - February 01]] - *short fiction*
-- [[Lore24#030 - January 30]] - *a campaign framework*
-- [[Lore24#024 - January 24]] - *stats for the telepathic zombies*
-- [[Lore24#023 - January 23]] - *telepathic zombies?!*
-- [[Lore24#022 - January 22]] - *what's a horror sandbox*?
-- [[Lore24#013 - January 13]] - *what are monsters*?
-- [[Lore24#012 - January 12]] - *Uamathi, the Cosmic Mourner*
-- [[Lore24#011 - January 11]]
-- [[Lore24#008 - January 08]]
-- [[Lore24#007 - January 07]]
-- [[Lore24#006 - January 06]]
-- [[Lore24#005 - January 05]]
-- [[Lore24#004 - January 04]]
-- [[Lore24#003 - January 03]]
-- [[Lore24#002 - January 02]]
-- [[Lore24#001 - January 01]]
+Main post: [[Lore24]]
+
+Entries:
+- [[001 - January 01 - The Other - flash fiction]]
+- [[002 - January 02 - The Party - flash fiction]]
+- [[003 - January 03 - A Moveable Feast]]
+- [[004 - January 04 - Saviors of the Green - faction]]
+- [[005 - January 05 - Concept - The City and the Void]]
+- [[006 - January 06 - Baytax Inc - white collar crime cult]]
+- [[007 - January 07 - Silent Legions Pantheon Generation]]
+- [[008 - January 08 - a God - Haathrasz, the Thirster]] 
+- [[009 - January 11 - a God - Boghost, the Lingerer]]
+- [[010 - January 12 - a God, Uamathi, the Cosmic Mourner]] 
+- [[011 - January 13 - What are monsters]]
+- [[012 - January 22 - investigative modern horror sandbox]]
+- [[013 - January 23 - monster - Onichus]]
+- [[014 - January 24 - monster - Onichus - stats]]
+- [[015 - January 30 - Campaign Framework - Dream of Swords]]
+- [[016 - February 01 - Short fiction - The Door]]
+- [[017 - February 02 - Epistemological bottleneck]]
+- [[018 - April 9 - Campaign Framework - Dreamlands Conjunctions]] 
+- [[019 - April 10 - Faction - The Free Librarians]]
+- [[020 - September 30 - What are dreams and the Dreamlands]]
+- [[021 - October 1 - The Legacy - Curse]]
 
 ## January 2024 Character Creation Challenge
 
