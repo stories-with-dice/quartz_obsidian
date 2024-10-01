@@ -2,7 +2,7 @@
 
 ## The Legacy
 
-> **The greatest burden a child must bear is the unlived life of the parents**." - Carl Jung
+> "**The greatest burden a child must bear is the unlived life of the parents**." - Carl Jung
 
 When a character's parent or ancestor dies there is a chance their obsession and will possesses their progeny. Like in Lovecraftian fiction (e.g. "The Case of Charles Dexter Ward"), the horror of the parent and of history is all too real. The possession replaces the target character's motivations with one of the ancestor's. The target may resist the Legacy with a relevant check (POW, CHA, or Unnatural). If they pass, they only lose SAN and feel a shiver down their spine. They also feel an unexplained intuition that something happened to member of their family.
 
