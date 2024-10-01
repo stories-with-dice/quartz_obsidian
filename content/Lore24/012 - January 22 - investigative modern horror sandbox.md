@@ -1,3 +1,6 @@
+---
+date: 2024-01-22
+---
 What do we need to have in our world's assumptions for a sandbox modern horror game?
 
 The closest we have in current RPGs is Unknown Armies. However, the horror there is centered around humanity. *We did it!*

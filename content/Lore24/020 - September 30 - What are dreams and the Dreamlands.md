@@ -1,3 +1,6 @@
+---
+date: 2024-09-30
+---
 > Finally back, after too much life got in the way of make-believe.
 ## Mental frolic - What are dreams and the Dreamlands?
 

@@ -1,3 +1,6 @@
+---
+date: 2024-01-06
+---
 ## Baytax, Inc
 
 Faction - White collar crime cult (inspired by [[January 2024 Character Creation Challenge#04 - Roger Schulte|Roger's lifepath]]).

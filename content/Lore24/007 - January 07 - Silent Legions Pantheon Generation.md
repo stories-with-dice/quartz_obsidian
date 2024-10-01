@@ -1,3 +1,6 @@
+---
+date: 2024-01-07
+---
 ## Silent Legions Pantheon
 
 What is the nature of The Void (The Unnatural, The Strange) in my world? Where did it come? What does it want? Does it *want* at all?

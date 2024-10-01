@@ -1,3 +1,6 @@
+---
+date: 2024-01-24
+---
 ## Monsters: Onichus (Stats) 
 
 Today I'm gonna try to flesh out some rough stats for the Onichus I've outlined yesterday (see above).

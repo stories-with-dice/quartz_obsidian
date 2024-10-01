@@ -1,3 +1,6 @@
+---
+date: 2024-04-09
+---
 ## Campaign framework - Dreamlands Conjunctions
 
 Reality is shaped by belief, a la Planescape or [Department of Truth](https://imagecomics.com/comics/series/the-department-of-truth). In hidden fringe corners of the world cultists control and subtly guide those susceptible to various ideas to their own ends. They shape reality and summon forth creatures from the Dreamlands. Their goals? Mysterious, elusive, but dangerous. You play agents trying to stop them. 

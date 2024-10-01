@@ -1,3 +1,6 @@
+---
+date: 2024-01-02
+---
 
 So what is this? I am trying to brainstorm setting ideas for a modern horror world. I'll be mixing ideas from Lovecraftian horror, conspiracies, the occult, weirdness, and whatever I feel like throwing into this cursed soup. For structure? Not sure. Maybe I'll use Silent Legions to create a sandbox of sorts, for investigative horror. Or I might brainstorm more elements for my Romanian Mythos sourcebook. Or wild ideas for one of my many work-in-progress modules. Or just pretentious flash fiction.
 

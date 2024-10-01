@@ -1,3 +1,6 @@
+---
+date: 2024-10-01
+---
 ![](https://i.imgur.com/65O7BkH.jpeg)
 
 ## The Legacy

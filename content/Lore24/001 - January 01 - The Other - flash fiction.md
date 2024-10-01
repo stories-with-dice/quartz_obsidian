@@ -1,3 +1,6 @@
+---
+date: 2024-01-01
+---
 Some moody flash fiction.
 
 *The world is ours: it spins, it flies around the Sun, it stinks, it's filled of people. The people ferment and fornicate, pile up on the interstate, and stare at the dark at night. In that dark, out in the cold void, something other than human lurks. It knows of you, but cares little of our Coke Zero and high-speed Internet marvels. This Other has been here long before we took our turn on the merry-go-round. Its deals and concerns are above our fast fashion brains. Yet, "As Above, So Below" applies to It too. The resonances of our minds and hearts tug and pull at the grand cog of the Cosmos and the Other. We are connected, despite our unceasing desire for atomization and isolation. When we yearn, when we scream, when we reach out with our minds for the edges of what **can** be known, the Other waits. What does it want of us? What does it offer for our service? The excitement of not knowing, of finding out with every new dark pact, is what makes the merry-go-round worth the hassle for those freaks who dare to prod. Outside the city, in the clear night sky, you stand and stare out at the void. You hope it stares back for you have things to ask.*

@@ -1,3 +1,6 @@
+---
+date: 2024-01-08
+---
 ## Haathrasz, the Thirster
 
 God: Haathrasz

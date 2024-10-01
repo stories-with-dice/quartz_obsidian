@@ -1,3 +1,6 @@
+---
+date: 2024-01-05
+---
 ## Concept: *The City and the Void*
 
 ![](https://i.imgur.com/YGP0qOc.png)

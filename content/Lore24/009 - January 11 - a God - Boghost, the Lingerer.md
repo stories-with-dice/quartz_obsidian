@@ -1,3 +1,6 @@
+---
+date: 2024-01-11
+---
 > Yes, I skipped a few days, life happens.
 
 Let's continue with another god.

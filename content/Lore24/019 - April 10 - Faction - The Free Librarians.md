@@ -1,3 +1,6 @@
+---
+date: 2024-04-10
+---
 ## Faction - The Free Librarians
 
 This is a group that can be used in any modern horror campaign.

@@ -1,3 +1,6 @@
+---
+date: 2024-01-03
+---
 ## A Moveable Feast
 
 Today I'll try to write the mechanics for the nightclub in my short fiction from yesterday.

@@ -1,3 +1,6 @@
+---
+date: 2024-01-04
+---
 
 Today, a faction based on random table rolls.
 
