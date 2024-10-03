@@ -38,5 +38,6 @@ Table of Contents
 - [[019 - April 10 - Faction - The Free Librarians]]
 - [[020 - September 30 - What are dreams and the Dreamlands]]
 - [[021 - October 1 - The Legacy - Curse]]
+- [[022 - October 3 - The Var, hypochondriac scientists]]
 
 [^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 
