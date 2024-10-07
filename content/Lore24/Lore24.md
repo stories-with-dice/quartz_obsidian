@@ -39,5 +39,6 @@ Table of Contents
 - [[020 - September 30 - What are dreams and the Dreamlands]]
 - [[021 - October 1 - The Legacy - Curse]]
 - [[022 - October 3 - The Var, hypochondriac scientists]]
+- [[023 - October 7 - The Var - stats and mechanics]]
 
 [^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 

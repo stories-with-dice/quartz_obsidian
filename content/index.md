@@ -37,6 +37,7 @@ The `#Lore24` challenge is to write a bit of background lore about your fictiona
 Main post: [[Lore24]]
 
 Entries:
+- [[023 - October 7 - The Var - stats and mechanics]]
 - [[022 - October 3 - The Var, hypochondriac scientists]]
 - [[021 - October 1 - The Legacy - Curse]]
 - [[020 - September 30 - What are dreams and the Dreamlands]]
