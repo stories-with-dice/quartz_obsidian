@@ -1,3 +1,6 @@
+---
+date: 2024-10-07
+---
 In this post, I detail the stats and mechanics of the alien monsters I created last time, [The Var](https://storieswithdice.substack.com/p/lore24-october-10th-var-hypochrondriac-aliens?r=4j4b9m). The stat blocks are for the [Cthulhu Eternal](https://www.drivethrurpg.com/en/product/384110/cthulhu-eternal-modern-age-srd?affiliate_id=1026766) system, a free OGL-based d100 Lovecraftian horror system compatible with Delta Green and Call of Cthulhu. I also built an online SRD for it [here](https://storieswithdice.com/cthulhu_eternal_srd) (_work in progress_)
 
 

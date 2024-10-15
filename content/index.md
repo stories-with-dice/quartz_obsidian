@@ -15,6 +15,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 ## Blog posts
 
+- [[My Favorite RPG Prep Tools and Frameworks]]
 - [[My House Rules for Skills in d100 games]]
 - [[Locations for modern settings]]
 - [[Sword and Sorcery fiction - an online class]]

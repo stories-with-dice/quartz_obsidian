@@ -1,3 +1,6 @@
+---
+date: 2024-10-03
+---
 Today I will create a monster. I am using random tables from
 
 - [Silent Legions](https://www.drivethrurpg.com/en/product/145769/silent-legions?affiliate_id=1026766)
